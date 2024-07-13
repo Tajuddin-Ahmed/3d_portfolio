@@ -71,12 +71,10 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta
-          corrupti neque voluptate exercitationem cupiditate nisi cumque, illum
-          ex tempore atque? Modi, vero accusantium? Perspiciatis autem repellat,
-          doloribus dicta iusto quibusdam dolor earum! Harum labore molestias
-          sapiente atque, reiciendis tempore nostrum voluptatibus praesentium
-          quis, sed, voluptatum ducimus numquam inventore maxime esse.
+          I have completed several projects for learning purse. Some of these
+          are professional project. I have used all modern web developing
+          techonology relating to Mern-stack. These will evaluate my endeavor on
+          web development I hope.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">
