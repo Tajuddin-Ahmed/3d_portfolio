@@ -39,10 +39,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-        optio exercitationem ullam, amet quisquam, veniam nihil itaque enim,
-        ratione sed recusandae. Consequatur autem officiis esse iure cupiditate
-        ea, ipsum deserunt!
+        Hello! I am Tajuddin Ahmed, currently pursuing my master's degree at TU
+        Chemnitz. With a strong foundation in computer science and a passion for
+        web development, I specialize in creating dynamic and responsive web
+        applications. My technical skills span across both front-end and
+        back-end development, making me a proficient full-stack developer.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
